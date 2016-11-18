@@ -1,5 +1,4 @@
-
-rge.puppetlabs.com'
+forge 'forge.puppetlabs.com'
 
 mod 'apache',
 :git => 'https://github.com/pushpakxor/apache'
